@@ -4,7 +4,7 @@ shortTitle: Maltrix n x x multiplication
 tags: Matrixes 
 cover: https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/matrix-representation-and-notation-in-math-1626411988.png
 author: Lebedevhh__
-firstSeen: 
+firstSeen: 1/14/2023 11:44 AM
 ---
 
 n x n , where n is divisble by 2, matrix multiplication
